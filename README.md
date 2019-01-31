@@ -1,7 +1,7 @@
 # Solve-Problem
 刷题笔记，我刷过的题目以及其所属OJ，编号，难度，重要思想都会记录在上面。
 
-最后更新于2019-01-31 09:25:04
+最后更新于2019-01-31 12:51:34
 
 ### Luogu
 以Luogu账号Herself32（uid=1483843）为准。
@@ -124,8 +124,9 @@
 
 2019-01-30 LuoguP4643 [国家集训队]阿狸和桃子的游戏
 
-2019-01-31 LuoguP10757 传球游戏
+2019-01-31 LuoguP1075 传球游戏
 
+2019-01-31 LuoguP1306 斐波那契公约数
 ### CodeForces
 以CodeForces账号herself32为准
 
@@ -209,3 +210,5 @@
 2019-01-28 HPOJ1016 lys's girfriend
 
 2019-01-28 HPOJ1020 Magical swap
+
+2019-01-30 HPOJ1024 Pass the ball
